@@ -1,10 +1,528 @@
 [
   {
+    "stockName": "Bajel Projects",
+    "price": 280,
+    "marketCap": 3230,
+    "pe": 322,
+    "index": 0,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "147%",
+        "Mar 2024": "489",
+        "Dec 2023": "275",
+        "Mar 2023": "198"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "217%",
+        "Mar 2024": "7.85",
+        "Dec 2023": "9.12",
+        "Mar 2023": "-6.71"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "1767%",
+        "Mar 2024": "7.07",
+        "Dec 2023": "3.36",
+        "Mar 2023": "-0.78"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "",
+        "Mar 2024": "0.61",
+        "Dec 2023": "0.29",
+        "Mar 2023": "None"
+      }
+    ]
+  },
+  {
+    "stockName": "Page Industries",
+    "price": 35581,
+    "marketCap": 39695,
+    "pe": 69.7,
+    "index": 6,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "3%",
+        "Mar 2024": "995",
+        "Dec 2023": "1,229",
+        "Mar 2023": "965"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "24%",
+        "Mar 2024": "167",
+        "Dec 2023": "230",
+        "Mar 2023": "134"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "38%",
+        "Mar 2024": "108",
+        "Dec 2023": "152",
+        "Mar 2023": "78.4"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "38%",
+        "Mar 2024": "97.01",
+        "Dec 2023": "136.59",
+        "Mar 2023": "70.24"
+      }
+    ]
+  },
+  {
+    "stockName": "Igarashi Motors",
+    "price": 523,
+    "marketCap": 1650,
+    "pe": 172.4,
+    "index": 8,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "18%",
+        "Mar 2024": "205",
+        "Dec 2023": "174",
+        "Mar 2023": "173"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "3%",
+        "Mar 2024": "22.4",
+        "Dec 2023": "17.3",
+        "Mar 2023": "21.9"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "- 33%",
+        "Mar 2024": "5.14",
+        "Dec 2023": "1.56",
+        "Mar 2023": "7.63"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "- 33%",
+        "Mar 2024": "1.63",
+        "Dec 2023": "0.50",
+        "Mar 2023": "2.42"
+      }
+    ]
+  },
+  {
+    "stockName": "Steel Str. Wheel",
+    "price": 223,
+    "marketCap": 3493,
+    "pe": 13.4,
+    "index": 14,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "6%",
+        "Mar 2024": "1,069",
+        "Dec 2023": "1,110",
+        "Mar 2023": "1,005"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "1%",
+        "Mar 2024": "110",
+        "Dec 2023": "117",
+        "Mar 2023": "108"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "58%",
+        "Mar 2024": "516",
+        "Dec 2023": "59.4",
+        "Mar 2023": "47.3"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "988%",
+        "Mar 2024": "32.85",
+        "Dec 2023": "3.79",
+        "Mar 2023": "3.02"
+      }
+    ]
+  },
+  {
+    "stockName": "Tega Inds.",
+    "price": 1543,
+    "marketCap": 10256,
+    "pe": 52.9,
+    "index": 15,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "28%",
+        "Mar 2024": "507",
+        "Dec 2023": "340",
+        "Mar 2023": "396"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "35%",
+        "Mar 2024": "139",
+        "Dec 2023": "56.1",
+        "Mar 2023": "103"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "16%",
+        "Mar 2024": "89.5",
+        "Dec 2023": "35.6",
+        "Mar 2023": "77.3"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "16%",
+        "Mar 2024": "13.45",
+        "Dec 2023": "5.36",
+        "Mar 2023": "11.64"
+      }
+    ]
+  },
+  {
+    "stockName": "Ganesha Ecosphe.",
+    "price": 1130,
+    "marketCap": 2872,
+    "pe": 70.8,
+    "index": 16,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "1%",
+        "Mar 2024": "306",
+        "Dec 2023": "285",
+        "Mar 2023": "302"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "40%",
+        "Mar 2024": "47.1",
+        "Dec 2023": "40.0",
+        "Mar 2023": "33.7"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "40%",
+        "Mar 2024": "21.6",
+        "Dec 2023": "12.7",
+        "Mar 2023": "15.4"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "21%",
+        "Mar 2024": "8.52",
+        "Dec 2023": "5.83",
+        "Mar 2023": "7.05"
+      }
+    ]
+  },
+  {
+    "stockName": "RPSG Ventures",
+    "price": 705,
+    "marketCap": 2343,
+    "pe": 11.9,
+    "index": 17,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "13%",
+        "Mar 2024": "2,020",
+        "Dec 2023": "1,846",
+        "Mar 2023": "1,792"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "33%",
+        "Mar 2024": "217",
+        "Dec 2023": "194",
+        "Mar 2023": "163"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "23%",
+        "Mar 2024": "-94.8",
+        "Dec 2023": "-55.4",
+        "Mar 2023": "-132"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "28%",
+        "Mar 2024": "-30.16",
+        "Dec 2023": "-20.70",
+        "Mar 2023": "-41.69"
+      }
+    ]
+  },
+  {
+    "stockName": "Subros",
+    "price": 642,
+    "marketCap": 4184,
+    "pe": 42.9,
+    "index": 19,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "11%",
+        "Mar 2024": "832",
+        "Dec 2023": "732",
+        "Mar 2023": "748"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "52%",
+        "Mar 2024": "76.9",
+        "Dec 2023": "59.6",
+        "Mar 2023": "50.6"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "66%",
+        "Mar 2024": "30.4",
+        "Dec 2023": "26.9",
+        "Mar 2023": "18.3"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "66%",
+        "Mar 2024": "4.66",
+        "Dec 2023": "4.12",
+        "Mar 2023": "2.80"
+      }
+    ]
+  },
+  {
+    "stockName": "PCBL Ltd",
+    "price": 259,
+    "marketCap": 9793,
+    "pe": 20,
+    "index": 20,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "40%",
+        "Mar 2024": "1,929",
+        "Dec 2023": "1,657",
+        "Mar 2023": "1,374"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "68%",
+        "Mar 2024": "310",
+        "Dec 2023": "279",
+        "Mar 2023": "184"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "9%",
+        "Mar 2024": "111",
+        "Dec 2023": "148",
+        "Mar 2023": "102"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "9%",
+        "Mar 2024": "2.95",
+        "Dec 2023": "3.92",
+        "Mar 2023": "2.71"
+      }
+    ]
+  },
+  {
+    "stockName": "Nucleus Soft.",
+    "price": 1438,
+    "marketCap": 3838,
+    "pe": 20,
+    "index": 21,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "2%",
+        "Mar 2024": "210",
+        "Dec 2023": "204",
+        "Mar 2023": "206"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "- 30%",
+        "Mar 2024": "58.2",
+        "Dec 2023": "47.6",
+        "Mar 2023": "82.7"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "- 23%",
+        "Mar 2024": "52.1",
+        "Dec 2023": "41.3",
+        "Mar 2023": "67.6"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "- 23%",
+        "Mar 2024": "19.47",
+        "Dec 2023": "15.43",
+        "Mar 2023": "25.27"
+      }
+    ]
+  },
+  {
+    "stockName": "Uno Minda",
+    "price": 830,
+    "marketCap": 47718,
+    "pe": 55.4,
+    "index": 22,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "31%",
+        "Mar 2024": "3,794",
+        "Dec 2023": "3,523",
+        "Mar 2023": "2,889"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "48%",
+        "Mar 2024": "474",
+        "Dec 2023": "380",
+        "Mar 2023": "319"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "48%",
+        "Mar 2024": "302",
+        "Dec 2023": "205",
+        "Mar 2023": "194"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "58%",
+        "Mar 2024": "5.04",
+        "Dec 2023": "3.37",
+        "Mar 2023": "3.19"
+      }
+    ]
+  },
+  {
+    "stockName": "ITC",
+    "price": 441,
+    "marketCap": 551201,
+    "pe": 26.9,
+    "index": 23,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "2%",
+        "Mar 2024": "17,923",
+        "Dec 2023": "18,019",
+        "Mar 2023": "17,635"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "0%",
+        "Mar 2024": "6,626",
+        "Dec 2023": "6,504",
+        "Mar 2023": "6,624"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "0%",
+        "Mar 2024": "5,191",
+        "Dec 2023": "5,407",
+        "Mar 2023": "5,243"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "- 1%",
+        "Mar 2024": "4.10",
+        "Dec 2023": "4.28",
+        "Mar 2023": "4.16"
+      }
+    ]
+  },
+  {
+    "stockName": "Indian Metals",
+    "price": 710,
+    "marketCap": 3828,
+    "pe": 10.3,
+    "index": 24,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "10%",
+        "Mar 2024": "701",
+        "Dec 2023": "685",
+        "Mar 2023": "637"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "- 25%",
+        "Mar 2024": "105",
+        "Dec 2023": "159",
+        "Mar 2023": "139"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "- 7%",
+        "Mar 2024": "63.6",
+        "Dec 2023": "109",
+        "Mar 2023": "64.2"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "35%",
+        "Mar 2024": "15.99",
+        "Dec 2023": "20.14",
+        "Mar 2023": "11.87"
+      }
+    ]
+  },
+  {
+    "stockName": "GOCL Corpn.",
+    "price": 400,
+    "marketCap": 1977,
+    "pe": 42.9,
+    "index": 0,
+    "results": [
+      {
+        "Item": "Sales",
+        "YOY": "- 23%",
+        "Mar 2024": "186",
+        "Dec 2023": "167",
+        "Mar 2023": "242"
+      },
+      {
+        "Item": "EBIDT",
+        "YOY": "- 257%",
+        "Mar 2024": "-10.6",
+        "Dec 2023": "-8.64",
+        "Mar 2023": "-2.98"
+      },
+      {
+        "Item": "Net profit",
+        "YOY": "- 61%",
+        "Mar 2024": "4.94",
+        "Dec 2023": "15.4",
+        "Mar 2023": "13.8"
+      },
+      {
+        "Item": "EPS",
+        "YOY": "- 64%",
+        "Mar 2024": "1.00",
+        "Dec 2023": "3.11",
+        "Mar 2023": "2.78"
+      }
+    ]
+  },
+  {
     "stockName": "TajGVK Hotels",
     "price": 384,
-    "marketCap": 2407,
-    "pe": 38.2,
-    "index": 9,
+    "marketCap": 2410,
+    "pe": 32.4,
+    "index": 14,
     "results": [
       {
         "Item": "Sales",
@@ -39,9 +557,9 @@
   {
     "stockName": "Saregama India",
     "price": 466,
-    "marketCap": 9001,
-    "pe": 48.1,
-    "index": 14,
+    "marketCap": 9003,
+    "pe": 45.6,
+    "index": 19,
     "results": [
       {
         "Item": "Sales",
@@ -78,7 +596,7 @@
     "price": 441,
     "marketCap": 3785,
     "pe": 40.5,
-    "index": 16,
+    "index": 21,
     "results": [
       {
         "Item": "Sales",
@@ -115,7 +633,7 @@
     "price": 189,
     "marketCap": 5321,
     "pe": 12.1,
-    "index": 18,
+    "index": 23,
     "results": [
       {
         "Item": "Sales",
@@ -144,43 +662,6 @@
         "Mar 2024": "8.89",
         "Dec 2023": "3.43",
         "Mar 2023": "-1.49"
-      }
-    ]
-  },
-  {
-    "stockName": "Powergrid Infra.",
-    "price": 98.5,
-    "marketCap": 8961,
-    "pe": 8.8,
-    "index": 23,
-    "results": [
-      {
-        "Item": "Sales",
-        "YOY": "- 7%",
-        "Mar 2024": "232",
-        "Dec 2023": "241",
-        "Mar 2023": "249"
-      },
-      {
-        "Item": "EBIDT",
-        "YOY": "70%",
-        "Mar 2024": "264",
-        "Dec 2023": "238",
-        "Mar 2023": "155"
-      },
-      {
-        "Item": "Net profit",
-        "YOY": "75%",
-        "Mar 2024": "254",
-        "Dec 2023": "228",
-        "Mar 2023": "145"
-      },
-      {
-        "Item": "EPS",
-        "YOY": "75%",
-        "Mar 2024": "2.79",
-        "Dec 2023": "2.50",
-        "Mar 2023": "1.59"
       }
     ]
   }
