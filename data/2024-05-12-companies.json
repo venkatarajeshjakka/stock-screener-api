@@ -1,0 +1,134 @@
+[
+  {
+    "stockName": "De Neers Tools",
+    "price": 225,
+    "marketCap": 194,
+    "pe": 22.4
+  },
+  {
+    "stockName": "CCL Products",
+    "price": 576,
+    "marketCap": 7692,
+    "pe": 30.8
+  },
+  {
+    "stockName": "Scan Steels",
+    "price": 69.1,
+    "marketCap": 362,
+    "pe": 17.2
+  },
+  {
+    "stockName": "Siyaram Silk",
+    "price": 461,
+    "marketCap": 2091,
+    "pe": 11.3
+  },
+  {
+    "stockName": "Vishwaraj Sugar",
+    "price": 16.1,
+    "marketCap": 302,
+    "pe": 20.9
+  },
+  {
+    "stockName": "Banswara Syntex",
+    "price": 147,
+    "marketCap": 504,
+    "pe": 14.2
+  },
+  {
+    "stockName": "APL Apollo Tubes",
+    "price": 1,
+    "marketCap": 42613,
+    "pe": 58.2
+  },
+  {
+    "stockName": "Bridge Securitie",
+    "price": 22.2,
+    "marketCap": 7.45,
+    "pe": 14.3
+  },
+  {
+    "stockName": "Control Print",
+    "price": 911,
+    "marketCap": 1457,
+    "pe": 26.7
+  },
+  {
+    "stockName": "D-Link India",
+    "price": 341,
+    "marketCap": 1211,
+    "pe": 13.3
+  },
+  {
+    "stockName": "TVS Srichakra",
+    "price": 3,
+    "marketCap": 3060,
+    "pe": 26.8
+  },
+  {
+    "stockName": "Dolphin Offshore",
+    "price": 642,
+    "marketCap": 2569,
+    "pe": 643.9
+  },
+  {
+    "stockName": "Guj. Containers",
+    "price": 157,
+    "marketCap": 88.7,
+    "pe": 9.8
+  },
+  {
+    "stockName": "Panchmahal Steel",
+    "price": 238,
+    "marketCap": 454,
+    "pe": 153
+  },
+  {
+    "stockName": "Savita Oil Tech",
+    "price": 560,
+    "marketCap": 3867,
+    "pe": 18.9
+  },
+  {
+    "stockName": "I T D C",
+    "price": 614,
+    "marketCap": 5267,
+    "pe": 73.9
+  },
+  {
+    "stockName": "ATV Projects",
+    "price": 21.1,
+    "marketCap": 112,
+    "pe": 17.3
+  },
+  {
+    "stockName": "Ras Resorts",
+    "price": 68.6,
+    "marketCap": 27.2,
+    "pe": 151.3
+  },
+  {
+    "stockName": "V R Infraspace",
+    "price": 138,
+    "marketCap": 122,
+    "pe": 53.8
+  },
+  {
+    "stockName": "Hi-Tech Pipes",
+    "price": 125,
+    "marketCap": 1788,
+    "pe": 40.7
+  },
+  {
+    "stockName": "Advanced Enzyme",
+    "price": 394,
+    "marketCap": 4404,
+    "pe": 30.7
+  },
+  {
+    "stockName": "Sheetal Cool",
+    "price": 427,
+    "marketCap": 448,
+    "pe": 21.5
+  }
+]
